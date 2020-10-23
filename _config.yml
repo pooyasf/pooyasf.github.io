@@ -74,12 +74,16 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
-
+    
+  photos:
+    output: true
+    permalink: /photos/:path/
+    
 news_limit: 5
 
 # -----------------------------------------------------------------------------
