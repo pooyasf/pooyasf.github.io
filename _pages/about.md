@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I have background in Electrical Engeeniering and Mamthmaics. I love modeling nature by Math and trying to understand them using mathmatics toolkits. [subreddit](http://reddit.com){:target="\_blank"}. You can check out my blog posts here. Also i put several pictures of my previous projects here. 
+I have background in Electrical Engeeniering and Mamthmaics. I love modeling nature by Math and trying to understand them using mathmatics toolkits. Especially dynammical systems and probability theory [subreddit](http://reddit.com){:target="\_blank"}. You can check out my blog posts here. Also i put several pictures of my previous projects here. 
 
 I love traveling and exploring nature. I do analog photography while i am traveling. There are several of them here exploring Iran. 
 
