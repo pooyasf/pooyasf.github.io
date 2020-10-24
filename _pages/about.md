@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Faculty of Mathmatical Science</p>
+    <p>Department of Mathematical Sciences</p>
     <p>Sharif University of Technology</p>
     <p>Tehran , Iran</p>
 
