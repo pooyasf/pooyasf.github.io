@@ -6,7 +6,8 @@ img: /assets/img/sos-logo.jpg
 importance: 2
 ---
 
-
+I’m head of SOS robotic team that is working in the mechanical department of the Isfahan University of Technology, and its primary focus is on rescue robots. Our team consists of 9 people, and we have two robots including one ground vehicle and one Quad-rotor. Our ground vehicle is designed based on a mechanism consists of five main parts that provide three different configurations. These five elements are four independent moving” crawler arms and one body. In software, we mostly focus on SLAM algorithms and robot AI engine. Our goal is to develop a robot with a reliable and robust system with hope to success in helping humans in real disaster sites.
+An operator controls the robot via a teleportation process, so the control operation is not entirely autonomous right now. We are developing the control method to make it fully independent. Connection between the robot and operator station is based on the following diagrams: 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,9 +32,11 @@ importance: 2
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+There is a PC inside the robot that processes images, the output of sensors, controls the actuators and runs the SLAM algorithm. As shown in the diagram, the process outputs and control feedbacks are sent to the operator station via a wireless connection, and the operator observes them is a GUI and operates the robot using a joystick and keyboard. 
+
+
+In this project, I designed and constructed a simple thermal camera by TPA81 infra-red thermal sensor. TPA81 is a thermopile array detecting infra-red in the 2um-22um range. It has an array of eight thermopiles arranged in a row so that it can measure the temperature of 8 adjacent points simultaneously. Through attaching this sensor to the top of a servo motor, we can create a thermal image and have a simple thermal camera. 
+Then, the output image, visualized by RVIZ with regards to ambient temperature: 
 
 
 <div class="row justify-content-sm-center">
@@ -45,7 +48,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    In the above image, you can see a thermal image of me, opening my arms in front of the camera. 
 </div>
 
 <div class="row">
@@ -58,18 +61,15 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sos-d2.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-```
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
+
+
+
