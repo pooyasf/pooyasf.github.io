@@ -1,23 +1,16 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: OHAD Co. Medical Equiopment
+description: Medical equipment for operating room
 img: /assets/img/2_fb.jpg
 importance: 1
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I designed both electric circuits and firmware software for these two devices.
+First device (the bigger one) is a clock , termometer and humidity sensor device suitable for surgerical rooms.
+It supports multiple timers , external relay activator etc. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Second device is an alarm. Prone to external noises.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +21,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Clock + Timer + Therometer + Humidity meter unit for operating room.  
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,9 +29,6 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Alarm unit for operating rooms.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
