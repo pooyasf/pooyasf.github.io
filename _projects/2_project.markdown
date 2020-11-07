@@ -51,14 +51,7 @@ Then, the output image, visualized by RVIZ with regards to ambient temperature:
     In the above image, you can see a thermal image of me, opening my arms in front of the camera. 
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sos-6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
 
 
 <div class="row">
@@ -67,9 +60,17 @@ Then, the output image, visualized by RVIZ with regards to ambient temperature:
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Architucture.
 </div>
 
 
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sos-6.jpg' | relative_url }}" alt="" title="Team members"/>
+    </div>
+</div>
+<div class="caption">
+    Team members. I am the left one! :D .
+</div>
