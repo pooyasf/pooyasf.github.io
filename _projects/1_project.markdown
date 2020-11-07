@@ -1,13 +1,13 @@
 ---
 layout: page
-title: OHAD Co. Medical Equiopment
+title: OHAD Co. Medical Equipment
 description: Medical equipment for operating room
 img: /assets/img/2_fb.jpg
 importance: 1
 ---
 
 I designed both electric circuits and firmware software for these two devices.
-First device (the bigger one) is a clock , termometer and humidity sensor device suitable for surgerical rooms.
+First device (the bigger one) is a clock , termometer and humidity sensor device suitable for surgical rooms.
 It supports multiple timers , external relay activator etc. 
 
 Second device is an alarm. Prone to external noises.
