@@ -1,7 +1,7 @@
 ---
 layout: page
 title: other
-description: city of art and history
+description: mysterious collection
 img: /assets/img/analog/other/other1.png
 importance: 3
 ---
