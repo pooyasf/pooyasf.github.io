@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I have a background in Electrical Engineering and Applied Mathmatics. Currently I am working at the intersection of deep neural networks and PDEs. I love the way math could help us code (aparently) complicated phenomenons in nature with its simple objects , so we can understand it betters. 
+I have a background in Electrical Engineering and Applied Mathmatics. Currently I am working at the intersection of deep neural networks and PDEs. I love the way math could help us code (aparently) complicated phenomenons in nature with its simple objects , so we can understand it better. 
 
 I have put several my previous projects [here](https://pooyasf.github.io/projects/){:target="\_blank"} . 
 
