@@ -1,14 +1,14 @@
 ---
 layout: page
-title: kilobot
-description: Building kilobot robots
+title: Kilobot
+description: A swarm robot platform for collective intelligence
 img: /assets/img/k5.jpg
 importance: 3
 ---
 
 The Kilobot swarm is a swarm robot platform designed to allow one to program and experiment with collective behaviors in large-scale autonomous swarms. Each robot has the basic capabilities required for an autonomous swarm robot (programmable controller, basic locomotion, and local communication), but is made with low-cost parts and is mostly assembled by an automated process. In addition, the system design allows a single user to easily and scalably operate a large Kilobot collective, such as "hands-off" programming, powering on, and charging all robots. We use the Kilobot swarm to investigate collective "artificial" intelligence (e.g. sync, collective transport, self-assembly) as well as to explore new theories that link minimal individual capabilities to acheivable swarm behaviors. 
 
-I have builded kilobots for my Bachelor project. All schematic and parts prepreation , assembly and programming done by me.
+I have builded kilobots for my Bachelor project including schematic and parts prepreation (both unit and programmer) , assembly and programming.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,7 +22,7 @@ I have builded kilobots for my Bachelor project. All schematic and parts preprea
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Programming unit // PCBs // Robot unit
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,7 +30,7 @@ I have builded kilobots for my Bachelor project. All schematic and parts preprea
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Different parts of kilbot unit.
 </div>
 
 <div class="row">
@@ -39,5 +39,5 @@ I have builded kilobots for my Bachelor project. All schematic and parts preprea
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Swarm behaviour emerge from indivual behaviour without any centralized control.
 </div>
