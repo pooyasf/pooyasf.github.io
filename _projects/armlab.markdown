@@ -6,7 +6,7 @@ img: /assets/img/sos-logo.jpg
 importance: 2
 ---
 
-I was head of EE team at SOS robotic team that is working in the mechanical department of the Isfahan University of Technology, and its primary focus is on rescue robots. Our team consists of 9 people, and we have two robots including one ground vehicle and one Quad-rotor. Our ground vehicle is designed based on a mechanism consists of five main parts that provide three different configurations. These five elements are four independent moving” crawler arms and one body. In software, we mostly focus on SLAM algorithms and robot AI engine. Our goal is to develop a robot with a reliable and robust system with hope to success in helping humans in real disaster sites.
+I was head of EE team at SOS robotic group that is working in the mechanical department of the Isfahan University of Technology, and its primary focus is on rescue robots. Our team consists of 9 people, and we have two robots including one ground vehicle and one Quad-rotor. Our ground vehicle is designed based on a mechanism consists of five main parts that provide three different configurations. These five elements are four independent moving” crawler arms and one body. In software, we mostly focus on SLAM algorithms and robot AI engine. Our goal is to develop a robot with a reliable and robust system with hope to success in helping humans in real disaster sites.
 An operator controls the robot via a teleportation process, so the control operation is not entirely autonomous right now. We are developing the control method to make it fully independent. 
 
 <div class="row">
