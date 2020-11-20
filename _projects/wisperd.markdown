@@ -13,7 +13,7 @@ I had cofounded Wisperd. Wisperd's main goal was to offer quality solution for p
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Wisperd/W1.png' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Wisperd/W3.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Wisperd/W3.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -30,12 +30,11 @@ I had cofounded Wisperd. Wisperd's main goal was to offer quality solution for p
 
 Tehran+ was a comprehensive map that could help people in city find closest places nearby.
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Wisperd/W4.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Wisperd/W5.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
