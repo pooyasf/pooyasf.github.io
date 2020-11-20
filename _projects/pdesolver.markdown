@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: PDE solver
+description: Master Thesis
 img: /assets/img/1.jpg
 importance: 3
 ---
