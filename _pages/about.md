@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I have a background in Electrical Engineering and Applied Mathmatics. Currently I am working at the intersection of deep neural networks and PDEs. I love the way math could help us code (aparently) complicated phenomenons in nature with its simple objects , so we can understand it better. 
 
-I have put several my previous projects [here](https://pooyasf.github.io/projects/){:target="\_self"} . 
+I've put several my previous projects [here](https://pooyasf.github.io/projects/){:target="\_self"} . 
 
-I love traveling and exploring nature. During these explorations I do analog photography. I love the technical details of doing analog photography. There is a collection of my photos [here](https://pooyasf.github.io/photos/){:target="\_self"}. They are taken while I was travelling different parts of Iran.
+I love traveling and exploring nature. During these explorations I do analog photography. I love the technical details of doing analog photography. There is a collection of my photos [here](https://pooyasf.github.io/photos/){:target="\_self"}. They were taken while I was travelling different parts of Iran.
 
