@@ -14,7 +14,7 @@ importance: 3
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    #1 Long Exposure
 </div>
 
 
@@ -24,7 +24,7 @@ importance: 3
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    #2 Khinaliq - Azerbaijan
 </div>
 
 
@@ -34,6 +34,6 @@ importance: 3
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    #3 Shiraz - Mysterious Saxophonists
 </div>
 
