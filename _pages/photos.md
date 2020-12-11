@@ -2,7 +2,7 @@
 layout: page
 title: photos
 permalink: /photos/
-description: My collection of photos from all over Iran.
+description: Photos collection of Iran.
 nav: true
 ---
 
