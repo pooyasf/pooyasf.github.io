@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   address: >
     <p>Department of Mathematical Sciences</p>
     <p>Sharif University of Technology</p>
