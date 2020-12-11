@@ -14,7 +14,7 @@ importance: 3
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    #1
 </div>
 
 
@@ -24,6 +24,6 @@ importance: 3
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    #2
 </div>
 
