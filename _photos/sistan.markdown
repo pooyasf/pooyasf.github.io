@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sistan and Baloochestan
-description: a project with a background image
+description: Southeast of Iran
 img: /assets/img/analog/sistan/sistan2.png
 importance: 1
 ---
