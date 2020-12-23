@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ARM LAB 
-description: Advanced robatic and mechatronic reseach lab.
+description: Advanced robotic and mechatronic reseach lab.
 img: /assets/img/sos-logo.jpg
 importance: 2
 ---
