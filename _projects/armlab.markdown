@@ -3,7 +3,7 @@ layout: page
 title: ARM LAB 
 description: Advanced robotic and mechatronic reseach lab.
 img: /assets/img/sos-logo.jpg
-importance: 2
+importance: 1
 ---
 
 I was head of EE team at SOS robotic group that is working in the mechanical department of the Isfahan University of Technology, and its primary focus is on rescue robots. Our team consists of 9 people, and we have two robots including one ground vehicle and one Quad-rotor. Our ground vehicle is designed based on a mechanism consists of five main parts that provide three different configurations. These five elements are four independent moving” crawler arms and one body. In software, we mostly focus on SLAM algorithms and robot AI engine. Our goal is to develop a robot with a reliable and robust system with hope to success in helping humans in real disaster sites.
