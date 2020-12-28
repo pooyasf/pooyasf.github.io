@@ -7,11 +7,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic2.jpg
-  address: >
-    <p>Department of Mathematical Sciences</p>
-    <p>Sharif University of Technology</p>
-    <p>Tehran , Iran</p>
-
+  
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
