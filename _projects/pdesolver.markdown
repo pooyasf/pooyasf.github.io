@@ -19,3 +19,13 @@ I will update this page with detailed description of the project pretty soon!
 <div class="caption">
     Neural Network finding solution of Advection Equation.
 </div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/heat_anim.gif' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    Neural Network finding solution of Heat Equation.
+</div>
