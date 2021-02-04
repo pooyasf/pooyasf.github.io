@@ -13,7 +13,7 @@ I will update this page with detailed description of the project pretty soon!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/advection_anim.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/advection_anim.gif' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
