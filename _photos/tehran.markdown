@@ -1,7 +1,7 @@
 ---
 layout: page
 title: tehran
-description: capital city of iran , full of contradictions
+description: Capital city of Iran
 img: /assets/img/analog/tehran/tehran1.png
 importance: 2
 ---

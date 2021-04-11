@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sistan and Baloochestan
+title: Sistan
 description: Southeast of Iran
 img: /assets/img/analog/sistan/sistan2.png
 importance: 1
