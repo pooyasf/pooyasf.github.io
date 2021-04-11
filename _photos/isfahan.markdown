@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isfahan
-description: city of art and history
+description: City of art and history
 img: /assets/img/analog/isfahan/isfahan3.png
 importance: 3
 ---

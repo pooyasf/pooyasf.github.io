@@ -1,7 +1,7 @@
 ---
 layout: page
 title: other
-description: mysterious collection
+description: Mysterious collection
 img: /assets/img/analog/other/other1.png
 importance: 3
 ---

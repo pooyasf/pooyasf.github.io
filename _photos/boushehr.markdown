@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Boushehr
-description: south of Iran
+description: South of Iran
 img: /assets/img/analog/boushehr/boushehr1.png
 importance: 3
 ---
