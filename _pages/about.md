@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Masters's student of Applied Mathmatics at Sharif University of Technology. Previously I have completed my Bachelor's degree in Electrical Engenering at Isfahan University of Technology.
+I am a Masters's student of Applied Mathmatics at Sharif University of Technology. Previously I have completed my Bachelor's degree in Electrical Engineering at Isfahan University of Technology.
 Currently I am working at the intersection of Neural Networks and PDEs for my Master's thesis. 
 
 I've put several of my previous projects [here](https://pooyasf.github.io/projects/){:target="_self"} . 
