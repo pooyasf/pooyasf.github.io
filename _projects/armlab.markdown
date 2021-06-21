@@ -29,7 +29,7 @@ An operator controls the robot via a teleportation process, so the control opera
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Concept.
 </div>
 
 There is a PC inside the robot that processes images, the output of sensors, controls the actuators and runs the SLAM algorithm. As shown in the diagram, the process outputs and control feedbacks are sent to the operator station via a wireless connection, and the operator observes them is a GUI and operates the robot using a joystick and keyboard. 
