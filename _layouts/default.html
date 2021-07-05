@@ -4,6 +4,15 @@
   <head>
     {% include head.html %}
     {% include scripts/mathjax.html %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HB4SVRMBKW"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    
+    gtag('config', 'G-HB4SVRMBKW');
+    </script>
   </head>
 
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
