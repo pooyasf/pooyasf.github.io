@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Pooya  Saffarieh</title>
+<title>Pooya  Saffarieh | ARM LAB</title>
 <meta name="description" content="Pooya Saffarieh`s personal web page
 ">
 
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/armlab/">
 
 <!-- Theming-->
 
@@ -129,18 +129,76 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">ARM LAB</h1>
+    <p class="post-description">Advanced robotic and mechatronic reseach lab.</p>
+  </header>
 
+  <article>
+    <p>I was head of EE team at SOS robotic group that is working in the mechanical department of the Isfahan University of Technology, and its primary focus is on rescue robots. Our team consists of 9 people, and we have two robots including one ground vehicle and one Quad-rotor. Our ground vehicle is designed based on a mechanism consists of five main parts that provide three different configurations. These five elements are four independent moving” crawler arms and one body. In software, we mostly focus on SLAM algorithms and robot AI engine. Our goal is to develop a robot with a reliable and robust system with hope to success in helping humans in real disaster sites.
+An operator controls the robot via a teleportation process, so the control operation is not entirely autonomous right now. We are developing the control method to make it fully independent.</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/sos-1.jpg" alt="" title="example image" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/sos-5.jpg" alt="" title="example image" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/sos-7.jpg" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption">
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/sos-e-2.jpg" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption">
+    Concept.
+</div>
 
-  
+<p>There is a PC inside the robot that processes images, the output of sensors, controls the actuators and runs the SLAM algorithm. As shown in the diagram, the process outputs and control feedbacks are sent to the operator station via a wireless connection, and the operator observes them is a GUI and operates the robot using a joystick and keyboard.</p>
 
+<p>For our robot , i designed and constructed a simple thermal camera by TPA81 infra-red thermal sensor. TPA81 is a thermopile array detecting infra-red in the 2um-22um range. It has an array of eight thermopiles arranged in a row so that it can measure the temperature of 8 adjacent points simultaneously. Through attaching this sensor to the top of a servo motor, we can create a thermal image and have a simple thermal camera. 
+Then, the output image, visualized by RVIZ with regards to ambient temperature:</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/c-thermal-2.jpg" alt="" title="example image" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/c-thermal-1.jpg" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption">
+    In the above image, you can see a thermal image of my friend , opening his arms in front of the camera. 
+</div>
+
+<p>Connection between the robot and operator station is based on the following diagrams:</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/sos-d2.jpg" alt="" title="example image" />
+    </div>
+</div>
+<div class="caption">
+    Architucture.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/sos-6.jpg" alt="" title="Team members" />
+    </div>
+</div>
+<div class="caption">
+    Team members. I am the left one! :D .
+</div>
+
+  </article>
 
 </div>
 
