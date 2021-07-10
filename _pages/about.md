@@ -14,8 +14,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a Masters's student of Applied Mathematics at Sharif University of Technology. Previously, I have completed my Bachelor's degree in Electrical Engineering at Isfahan University of Technology.
-I'm mainly interested in Complex Systems (like financial markets), time series analysis, and the application of deep learning in these areas. 
+I'm mainly interested in Complex Systems, time series analysis, and the application of deep learning in these areas. 
 
-I've put several of my previous projects [here](https://pooyasf.github.io/projects/){:target="_self"} . 
+You can find several older projects [here](https://pooyasf.github.io/projects/){:target="_self"} . 
 
 I love traveling and exploring nature. During these explorations, I do analog photography. I love the technical details of doing analog photography. There is a collection of my photos [here](https://pooyasf.github.io/photos/){:target="_self"}. They were taken while I was traveling to different parts of Iran.
