@@ -10,6 +10,7 @@ importance: 5
 I've working on numerical solution of PDEs with neural networks. I've developed a library for gradient propogation study during training.
 
 You can check out the code and more description for this project on my github [here](https://github.com/pooyasf/DGM){:target="_self"}
+Also, you can see my dissertation abstract [here](/assets/pdf/abstract.pdf){:target="_self"}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
