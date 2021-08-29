@@ -33,9 +33,11 @@ This device is a linux kiosk that can be connected to the internet, POS devices,
 <div class="caption">
     Tehran subway proposal concept
 </div>
-
+<br>
+<br>
 Tehran+ is a comprehensive map that makes it easy to find and discover places around the city.
-
+<br>
+<br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Wisperd/W4.jpg' | relative_url }}" alt="" title="example image"/>
