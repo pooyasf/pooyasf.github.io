@@ -6,7 +6,13 @@ img: /assets/img/Wisperd/W_thumb.png
 importance: 3
 ---
 
-I had cofounded Wisperd. Wisperd's main goal was to offer quality solution for public spaces like subway , airports and shopping malls. Our Wisperd Q is a tablet like mini kiosk that is cloud based. So from managment point of view you could organize and monitor all devices through internet. They are Linux based. My main role in Wisperd was managing reasearch and development of hardware , software and design. 
+As a co-founder of Wisperd, a startup with the mission to offer quality solutions for public spaces, I had the following responsibilities: 
+
+1- Directing the research of hardware and software teams
+2- Developing prototypes, software, and hardware
+3- Communication with local and overseas third party companies for APIs, hardware parts, and integrating the device with banking software
+
+This device is a linux kiosk that can be connected to the internet, POS devices, and a printer. It has a high-resolution touch panel. From a management perspective, you can manage devices from an online panel. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -17,7 +23,7 @@ I had cofounded Wisperd. Wisperd's main goal was to offer quality solution for p
     </div>
 </div>
 <div class="caption">
-    Renders and actual device
+    Renders and the actual device
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,10 +31,10 @@ I had cofounded Wisperd. Wisperd's main goal was to offer quality solution for p
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Tehran subway proposal concept
 </div>
 
-Tehran+ was a comprehensive map that could help people in city find closest places nearby.
+Tehran+ is a comprehensive map that makes it easy to find and discover places around the city.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

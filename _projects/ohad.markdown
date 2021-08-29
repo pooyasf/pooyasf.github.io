@@ -6,11 +6,10 @@ img: /assets/img/2_fb.jpg
 importance: 1
 ---
 
-I designed both electric circuits and firmware software for these two devices.
-First device (the bigger one) is a clock , termometer and humidity sensor device suitable for surgical rooms.
-It supports multiple timers , external relay activator etc. 
+The project was for OHAD, a company that makes medical equipment. One of the devices was a multifunctional timer. This device has been designed to be highly reliable for operating theaters and includes a clock, thermometer, and humidity sensor. The second device is an alarm panel that connects to other devices in the Operating theater and indicates their status. It should handle noise on input signals. 
 
-Second device is an alarm. Prone to external noises.
+In this project, I designed circuits and firmware for these two devices, both of which were successfully mass produced.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
