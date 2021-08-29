@@ -8,6 +8,7 @@ importance: 3
 
 As a co-founder of Wisperd, a startup with the mission to offer quality solutions for public spaces, I had the following responsibilities: 
 <br>
+<br>
 1- Directing the research of hardware and software teams <br>
 2- Developing prototypes, software, and hardware <br>
 3- Communication with local and overseas third party companies for APIs, hardware parts, and integrating the device with banking software <br>
