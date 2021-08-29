@@ -34,8 +34,7 @@ I was head of the Electronics team at SOS robotic group that was working in the 
 There is a PC inside the robot that processes images, the output of sensors, controls the actuators and runs the SLAM algorithm. As shown in the diagram, the process outputs and control feedbacks are sent to the operator station via a wireless connection, and the operator observes them is a GUI and operates the robot using a joystick and keyboard. 
 
 
-For our robot, I designed and constructed a simple thermal camera by TPA81 infra-red thermal sensor. TPA81 is a thermopile array detecting infra-red in the 2um-22um range. It has an array of eight thermopiles arranged in a row so that it can measure the temperature of 8 adjacent points simultaneously. By attaching this sensor to the top of a servo motor, we can create a thermal image and have a simple thermal camera. 
-
+I designed and built a thermal camera for our robot using a TPA81 infrared thermal sensor. The TPA81 is an array of thermopiles that detects infrared in the 2um-22um range. The thermopiles are placed within rows so that they can measure the temperature of 8 adjacent points simultaneously. By attaching this sensor to the top of a servo motor, we can create a thermal image and create a simple thermal camera. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,8 +48,9 @@ For our robot, I designed and constructed a simple thermal camera by TPA81 infra
     In the above image, you can see a thermal image of my friend, opening his arms in front of the camera. 
 </div>
 
-
-Connection between the robot and operator station is based on the following diagrams: 
+<br>
+The following diagrams illustrate the connection between the robot and operator station: 
+<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -58,7 +58,7 @@ Connection between the robot and operator station is based on the following diag
     </div>
 </div>
 <div class="caption">
-    Architucture.
+    The architucture
 </div>
 
 
