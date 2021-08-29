@@ -12,13 +12,13 @@ My Bachelor's project involved building Kilobots, which included schematic and p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/k1.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/k1.jpg' | relative_url }}" alt="" title="assembly"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/k2.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/k2.jpg' | relative_url }}" alt="" title="PCBs"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/k3.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/k3.png' | relative_url }}" alt="" title="Kilobot"/>
     </div>
 </div>
 <div class="caption">
@@ -26,7 +26,7 @@ My Bachelor's project involved building Kilobots, which included schematic and p
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/k4.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/k4.jpg' | relative_url }}" alt="" title="Kilobot"/>
     </div>
 </div>
 <div class="caption">
@@ -35,7 +35,7 @@ My Bachelor's project involved building Kilobots, which included schematic and p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/k6.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/k6.jpg' | relative_url }}" alt="" title="Swarm behaviour"/>
     </div>
 </div>
 <div class="caption">
