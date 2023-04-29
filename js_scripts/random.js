@@ -1,27 +1,48 @@
-let xoff = 0.0;
-let xincrement = 0.01;
 
 function setup() {
-  createCanvas(710, 400);
-  background(0);
+
+   var canvas = createCanvas(500, 150);
+   // Move the canvas so it’s inside our <div id="sketch-holder">.
+   canvas.parent('sketch-holder');
+
+   x = 0;
+  background(255);
   noStroke();
+  frameRate(30);
+  h_array = [0,height*1/4,height*2/4,height*3/4];
+  w_array = [0,width*1/6,width*2/6,width*3/6,width*4/6,width*5/6];
+
+  mmbr_list = [];
+  for(let i=0;i<24;i++){
+    grp = floor(random(6));
+    mmbr_list.push(grp);
+  }
+  t = 0;
 }
 
 function draw() {
-  // Create an alpha blended background
-  fill(0, 10);
-  rect(0, 0, width, height);
+    
+    background(255);
+    stroke(255);
+    
+    let grp_num = 0;
+    for(let h_elmnt = 0;h_elmnt<4;h_elmnt++){
+        for(let w_elmnt=0;w_elmnt<6;w_elmnt++){
+            
+            grp_clr_seed = mmbr_list[grp_num];
 
-  //let n = random(0,width);  // Try this line instead of noise
+            fill(100+grp_clr_seed*30,150+sin(t/20)*10,150+grp_clr_seed+cos(t/50)*20);
+            std_rect(w_array[w_elmnt],h_array[h_elmnt]);
+            grp_num++;
 
-  // Get a noise value based on xoff and scale
-  // it according to the window's width
-  let n = noise(xoff) * width;
+        }
+    }
 
-  // With each cycle, increment xoff
-  xoff += xincrement;
+    t++;
 
-  // Draw the ellipse at the value produced by perlin noise
-  fill(200);
-  ellipse(n, height / 2, 64, 64);
+
+}
+
+function std_rect(x,y){
+    rect(x,y,width*1/6,height*1/4);
 }
