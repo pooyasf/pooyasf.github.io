@@ -23,7 +23,7 @@ function setup() {
 function draw() {
     
     background(255);
-    stroke(255);
+    //stroke(255);
     
     let grp_num = 0;
     for(let h_elmnt = 0;h_elmnt<4;h_elmnt++){
