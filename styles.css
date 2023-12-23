@@ -11,7 +11,7 @@ html, body{
 
 body {
   width: 100%;
-  /* border: 3px solid greenyellow; */
+  border: 3px solid greenyellow;
   padding-top: 5%;
 }
 
@@ -34,4 +34,41 @@ body {
 #header-image {
   text-align: center;
   height: auto;
+}
+
+
+#header-photos {
+  text-align: left;
+  font-family: 'Courier New', Courier, monospace;
+  border: 1px solid greenyellow;
+  padding: 4%;
+}
+
+.photo-container {
+  display: flex;
+  width: 100%;
+  border: 2px solid blue;
+  height: auto;
+  flex-wrap: wrap;
+}
+
+.photo-holder {
+  border: 1px solid greenyellow;
+  text-align: center;
+  width: 100%;
+  padding: 1%;
+  max-width: 500px;
+}
+
+.photo-text {
+  width: 100%;
+  padding: 1%;
+  text-align: center;
+  border: 1px solid greenyellow;
+}
+
+.photo {
+  text-align: center;
+  width: 100%;
+  border: 1px solid greenyellow;
 }
