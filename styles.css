@@ -11,7 +11,6 @@ html, body{
 
 body {
   width: 100%;
-  border: 3px solid greenyellow;
   padding-top: 5%;
 }
 
@@ -40,20 +39,17 @@ body {
 #header-photos {
   text-align: left;
   font-family: 'Courier New', Courier, monospace;
-  border: 1px solid greenyellow;
   padding: 4%;
 }
 
 .photo-container {
   display: flex;
   width: 100%;
-  border: 2px solid blue;
   height: auto;
   flex-wrap: wrap;
 }
 
 .photo-holder {
-  border: 1px solid greenyellow;
   text-align: center;
   width: 100%;
   padding: 1%;
@@ -64,11 +60,9 @@ body {
   width: 100%;
   padding: 1%;
   text-align: center;
-  border: 1px solid greenyellow;
 }
 
 .photo {
   text-align: center;
   width: 100%;
-  border: 1px solid greenyellow;
 }
