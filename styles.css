@@ -1,16 +1,37 @@
 /* style.css */
 
-html, body {
+@font-face { font-family: Vazirmatn; src: url('Vazir.ttf'); } 
+* {
+  box-sizing: border-box;
+}
+
+html, body{
   height: 100%;
 }
 
 body {
-  margin: 0;
-  display: flex;
+  width: 100%;
+  /* border: 3px solid greenyellow; */
+  padding-top: 5%;
+}
 
-  /* This centers our sketch horizontally. */
-  justify-content: center;
+#links {
+  text-align: center;
+  padding-top: 2%;
+}
 
-  /* This centers our sketch vertically. */
-  align-items: center;
+.align-center {
+  text-align: center;
+}
+
+#personal-info {
+  display: inline-block;
+  font-family: Vazirmatn;
+  text-align: left;
+  padding: 5%;
+}
+
+#header-image {
+  text-align: center;
+  height: auto;
 }
