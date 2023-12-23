@@ -1,6 +1,8 @@
 /* style.css */
 
 @font-face { font-family: Vazirmatn; src: url('Vazir.ttf'); } 
+@font-face { font-family: Kirvy; src: url('Kirvy.otf'); } 
+
 * {
   box-sizing: border-box;
 }
@@ -10,13 +12,19 @@ html, body{
 }
 
 body {
-  width: 100%;
-  padding-top: 5%;
+  padding-top: 3%;
+  background-color: black;
+  color: white;
+  font-family: Kirvy;
 }
 
 #links {
   text-align: center;
   padding-top: 2%;
+}
+
+a:visited {
+  color: white;
 }
 
 .align-center {
@@ -25,8 +33,7 @@ body {
 
 #personal-info {
   display: inline-block;
-  font-family: Vazirmatn;
-  text-align: left;
+  text-align: center;
   padding: 5%;
 }
 
