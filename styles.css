@@ -23,6 +23,10 @@ body {
   padding-top: 2%;
 }
 
+a {
+  color: white;
+}
+
 a:visited {
   color: white;
 }
