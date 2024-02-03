@@ -1,8 +1,6 @@
 // Handles tag filtering in the photo gallery page!
 // reference: https://www.w3schools.com/howto/howto_js_filter_elements.asp
 
-<script>
-
     filterSelection("all")
     function filterSelection(c) {
     var x, i;
@@ -50,5 +48,3 @@ while (arr1.indexOf(arr2[i]) > -1) {
             this.className += " active";
         });
 }
-
-</script>
