@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+  <title>Pooya Saffarieh - Photos</title>
+  <!-- Link to our stylesheet! -->
+  <link rel="stylesheet" href="styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HB4SVRMBKW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-HB4SVRMBKW');
+  </script>
+</head>
+
+<body>
+
+  <div id="header-photos">
+    <h1>Photo gallery</h1>
+    <div id="myBtnContainer">
+      <!-- PYMAGIC-BUTTON -->
+      <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+      <button class="btn" onclick="filterSelection('Amsterdam')"> Amsterdam</button>
+      <button class="btn" onclick="filterSelection('Rotterdam')"> Rotterdam</button>
+    </div>
+  </div>
+
+  <div class="photo-container">
+    <!-- PYTHON-MAGIC -->
+    <div class="photo-holder Rotterdam">
+      <div class="photo"><img src="Photos/1.jpg" alt="Amsterdam light event" style="width: 100%; text-align: center;">
+      </div>
+      <div class="photo-text">Rotterdam - Netherlands</div>
+    </div>
+    <div class="photo-holder Amsterdam">
+      <div class="photo"><img src="Photos/2.JPG" alt="Amsterdam light event" style="width: 100%; text-align: center;">
+      </div>
+      <div class="photo-text">?</div>
+    </div>
+    <div class="photo-holder Rotterdam">
+      <div class="photo"><img src="Photos/3.jpg" alt="Amsterdam light event" style="width: 100%; text-align: center;">
+      </div>
+      <div class="photo-text">?</div>
+    </div>
+    <div class="photo-holder Rotterdam">
+      <div class="photo"><img src="Photos/4.jpg" alt="Amsterdam light event" style="width: 100%; text-align: center;">
+      </div>
+      <div class="photo-text">Amsterdam</div>
+    </div>
+    <!-- PYTHON-MAGIC -->
+</div>
+
+  <script src="scripts/photo-filter.js"></script>
+
+  
+
+</body>
+
+</html>

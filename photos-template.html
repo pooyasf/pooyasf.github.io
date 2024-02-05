@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+  <title>Pooya Saffarieh - Photos</title>
+  <!-- Link to our stylesheet! -->
+  <link rel="stylesheet" href="styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HB4SVRMBKW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-HB4SVRMBKW');
+  </script>
+</head>
+
+<body>
+
+  <div id="header-photos">
+    <h1>Photo gallery</h1>
+    <div id="myBtnContainer">
+      <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+    <!-- PYMAGIC-BUTTON -->
+    </div>
+  </div>
+
+  <div class="photo-container">
+    <!-- PYMAGIC-PHOTOS -->
+  </div>  
+
+  <script src="scripts/photo-filter.js"></script>
+
+  
+
+</body>
+
+</html>

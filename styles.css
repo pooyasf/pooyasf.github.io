@@ -1,7 +1,7 @@
 /* style.css */
 
-@font-face { font-family: Vazirmatn; src: url('Vazir.ttf'); } 
-@font-face { font-family: Kirvy; src: url('Kirvy.otf'); } 
+@font-face { font-family: Vazirmatn; src: url('fonts/Vazir.ttf'); } 
+@font-face { font-family: Kirvy; src: url('fonts/Kirvy.otf'); } 
 
 * {
   box-sizing: border-box;

@@ -17,31 +17,69 @@
 
     gtag('config', 'G-HB4SVRMBKW');
   </script>
-
-<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script>
-   $(function() {
-      $("#includeHtml").load("photo-container.html");
-   });
-</script>
-
 </head>
 
 <body>
 
-
-
   <div id="header-photos">
     <h1>Photo gallery</h1>
-    <!-- Control buttons -->
     <div id="myBtnContainer">
       <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-      <button class="btn" onclick="filterSelection('Amsterdam')"> Amsterdam</button>
-      <button class="btn" onclick="filterSelection('Rotterdam')"> Rotterdam</button>
-    </div>
+    <!-- PYMAGIC-BUTTON -->
+
+        <button class="btn" onclick="filterSelection('Rotterdam')">Rotterdam</button>
+        
+        <button class="btn" onclick="filterSelection('spk')">spk</button>
+        
+        <button class="btn" onclick="filterSelection('4')">4</button>
+        
+        <button class="btn" onclick="filterSelection('2')">2</button>
+        
+        <button class="btn" onclick="filterSelection('3')">3</button>
+        
+        <button class="btn" onclick="filterSelection('1')">1</button>
+            </div>
   </div>
 
-  <div id="includeHtml"></div>
+  <div class="photo-container">
+
+            <div class="photo-holder Rotterdam">
+            <div class="photo"><img src="Photos/Rotterdam_Spring.jpg" style="width: 100%; text-align: center;">
+            </div>
+            <div class="photo-text">#Rotterdam #Spring </div>
+            </div>
+            
+            <div class="photo-holder spk">
+            <div class="photo"><img src="Photos/spk.jpg" style="width: 100%; text-align: center;">
+            </div>
+            <div class="photo-text">#spk </div>
+            </div>
+            
+            <div class="photo-holder 4">
+            <div class="photo"><img src="Photos/4.jpg" style="width: 100%; text-align: center;">
+            </div>
+            <div class="photo-text">#4 </div>
+            </div>
+            
+            <div class="photo-holder 2">
+            <div class="photo"><img src="Photos/2.jpg" style="width: 100%; text-align: center;">
+            </div>
+            <div class="photo-text">#2 </div>
+            </div>
+            
+            <div class="photo-holder 3">
+            <div class="photo"><img src="Photos/3.jpg" style="width: 100%; text-align: center;">
+            </div>
+            <div class="photo-text">#3 </div>
+            </div>
+            
+            <div class="photo-holder 1">
+            <div class="photo"><img src="Photos/1.jpg" style="width: 100%; text-align: center;">
+            </div>
+            <div class="photo-text">#1 </div>
+            </div>
+                <!-- PYMAGIC-PHOTOS -->
+  </div>  
 
   <script src="scripts/photo-filter.js"></script>
 
