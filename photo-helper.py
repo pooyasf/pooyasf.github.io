@@ -83,7 +83,7 @@ def insert_in_the_file(file,newfile,line,string_to_insert):
 photo_divs, main_tags = generate_photo_divs(photo_folder_path)
 buttons_div = generate_buttons(main_tags)
 btn_line = find_line(photos_template_path, "<!-- PYMAGIC-BUTTON -->")+1
-photo_line = find_line(photos_template_path, "<!-- PYMAGIC-PHOTOS -->")+1
+photo_line = find_line(photos_template_path, "<!-- PYMAGIC-PHOTOS -->")+2
 
 with open(photos_template_path, "r") as f:
     contents = f.readlines()
